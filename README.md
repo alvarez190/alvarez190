@@ -33,7 +33,8 @@ Estoy abierto a **colaboraciones**, **trabajos freelance** y **oportunidades lab
 ---
 
 📫 **¿Quieres trabajar conmigo?**
-¡Hablemos! Puedes contactarme por aquí o a través de mis redes sociales.
+[📨 Escríbeme un correo](mailto:stalin.ac.developer@gmail.com?subject=Quiero%20trabajar%20contigo&body=Hola%2C%20quiero%20trabajar%20contigo.%20%C2%BFCu%C3%A1ndo%20podemos%20hablar%3F)
+
 
 ---
 
