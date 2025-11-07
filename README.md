@@ -10,9 +10,12 @@
 - 🔹 Angular
 - 🔹 HTML5
 - 🔹 SCSS
+- 🔹 IONIC
+- 🔹 REACR
 
 **Backend:**
 - 🔸 PHP & Laravel
+- 🔸 Symfony
 - 🔸 Node.js
 
 ---
