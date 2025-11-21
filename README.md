@@ -7,11 +7,11 @@
 🧠 **Stack tecnológico actual:**
 
 **Frontend:**
-- 🔹 Angular
-- 🔹 HTML5
-- 🔹 SCSS
+- 🔹 ANGULAR
 - 🔹 IONIC
-- 🔹 REACR
+- 🔹 REACT
+- 🔹 HTML
+- 🔹 SCSS
 
 **Backend:**
 - 🔸 PHP & Laravel
@@ -28,8 +28,7 @@ Estoy abierto a **colaboraciones**, **trabajos freelance** y **oportunidades lab
 ---
 
 🚀 **Mis valores como profesional:**
-- Compromiso con la calidad y los plazos
-- Comunicación clara y efectiva
+- Compromiso con la calidad
 - Trabajo en equipo y colaboración activa
 - Aprendizaje constante
 
